@@ -1,0 +1,25 @@
+** what is c#?
+
+=> c# is a powerful programming language built on the foundation of c and cpp for
+ development modern world application. and also used for cross-platform development.
+
+
+
+** bullet points:
+
+=> c# is a versatile programing language for cross-platform development.
+=> seemless integration with web app , apis and  mobile apps .
+=> supported by powerful tool visual studio.
+=> built on the platform independent .net core framework.
+
+
+
+
+**  every programing language built on the top of some other language or framework.
+similary c# built on the foundation of c and cpp.
+
+
+
+** dennis ritchie developed c and rewrite the unix kernel in c. and bajourn stostroup
+developed extended version of c with adding object oriented programming in c.
+
