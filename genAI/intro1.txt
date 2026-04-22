@@ -1,0 +1,28 @@
+** chatgpt a craft of promt engineering is developed by openai.
+
+
+** generative ai is a class of artificial intelligence algorithm ued for create content.
+=>these model are trained on vast dataset for generating coherent output.
+it is more human comparing to already existing  other technology and function easily
+in numerous field.
+
+=> It is used to generate new text image, video , or audio based on your instruction.
+it uses artificial neural network to understand patern in data.
+once trained the neural network data entered ealier during the training to generate 
+similar content.
+
+
+** traditional ai machine learing is diferent from generative ai in many ways:
+=>tradinitional ai makes prediction from classification and regression ,
+needs less amount of data,predicts based on existing data , and trainig may not be 
+computationlly expensve.
+
+=>generative ai generates data using patterns , large amount of  data needed to trained,
+can also generates new content, and computationally expensive.
+
+
+**  generative ai focuses on many different areas such customer growth , cost optimization,
+revenue growth and many more.
+
+** there are various tools which uses  generative ai :
+chatgpt , bedrock, bard , github copilot, code whispher, codey, gemini
