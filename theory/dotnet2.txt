@@ -1,0 +1,37 @@
+** dotnet:
+
+=> it provides a platform for building application in various high level languages.
+=> built in 90s.
+=>.NET (pronounced “dot net”) is a software development platform created by Microsoft
+that developers use to build different kinds of applications.
+
+
+
+** how program get converted?
+
+=> In .NET, source code is first compiled into MSIL (Microsoft Intermediate Language). 
+This MSIL is then executed by the CLR (Common Language Runtime). The CLR uses
+a JIT (Just-In-Time) compiler to convert MSIL into machine code at runtime.
+The JIT compiles only the required methods when they are called. The CLR
+also provides services like memory management through Garbage Collection,
+exception handling, and security.
+
+
+
+** dontnet features:
+
+=> apart from the cross platform features dotnet provides garbage collector for memory 
+management.
+=> common object oriented class library.
+=> it  works in cross platform  and supports different language c#,vb.net, pyhon ,
+and framework like asp.net for web application developemnt.
+
+
+** framework:
+=> A framework is a pre-built structure or platform that provides tools, libraries, and rules 
+to help developers build applications faster and more easily.
+
+
+**why csharp?
+=> it is combination of necessary features of both cpp and java .
+

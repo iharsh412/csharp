@@ -1,0 +1,19 @@
+** what is difference between c and cpp?
+
+
+
+** what is c# ? why c# not cpp ?
+
+=> C → Procedural (functions only)
+C++ → Procedural + Object-Oriented
+C# → Fully Object-Oriented (everything revolves around classes)
+
+=> C / C++
+Manual memory control (malloc, free, new, delete)
+C#
+Automatic memory management using Garbage Collection
+No need to manually free memory
+
+=> C → Works close to hardware
+C++ → Cross-platform, high performance
+C# → Runs on .NET runtime (cross-platform now)
