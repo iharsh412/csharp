@@ -26,3 +26,85 @@ revenue growth and many more.
 
 ** there are various tools which uses  generative ai :
 chatgpt , bedrock, bard , github copilot, code whispher, codey, gemini
+
+** chatgpt used for different domain for different application.
+
+
+** four essential concept in gen ai:
+
+=> prompt engineering
+  it involve crafting precise and  content specific instruction called promt for 
+  the tool.
+
+=> long chain
+ LangChain is a framework that helps developers connect
+  AI models with data, tools, and workflows to build smart applications.
+
+=> llm
+An LLM (Large Language Model) is an AI model trained on huge amounts of
+ text data to understand and generate human-like language.
+ it is foundational machine  learing model that uses deep learing  algorithm to understand
+ natural language.
+
+=>code generation
+ help the developer for auto completing thecode and help it to write correct code 
+ and also helps in finding bugs in the code.
+
+
+**  A Moderation API is a tool used to check and filter content (text, images, etc.) to make 
+ sure it is safe, appropriate, and follows rules.
+
+** Prompt chaining is a technique where you connect multiple prompts together,
+and the output of one prompt becomes the input for the next.
+
+** Inferring (or inference) means drawing conclusions or generating answers
+from data using a trained AI model.
+
+** Summarizing means reducing a large piece of information into a
+ shorter version while keeping the main ideas.
+
+** Transforming means changing data from one form into another 
+form while keeping the meaning the same.
+
+** Expanding means adding more details to a short piece of text
+to make it longer, clearer, and more informative.
+
+** Deriving means getting a new result, conclusion, or 
+information from existing data or knowledge using logic or steps.
+
+** langchain:
+=> LangChain is a framework used to build AI-powered applications 
+by connecting large language models with data and tools.
+used for chatbot, chaining , answering the questions ,
+
+** memory used in longchain:
+
+=> 1. Conversation Buffer Memory
+Stores full conversation history
+Simple but can become large
+
+2. Conversation Summary Memory
+Stores a summarized version of conversation
+Saves space
+
+3. Conversation Buffer Window Memory
+Stores only last few messages
+
+4. Entity Memory
+Stores specific important details (like names, places)
+
+
+**Natural Language Processing (NLP) is a branch of artificial intelligence
+ that helps computers understand, interpret, and generate human language.
+
+
+** LangChain Agents:
+=> An Agent is a system that allows AI to make decisions 
+and take actions on its own using available tools.
+
+
+=> The  core idea of LangChain agent is to use language model to choose a sequence 
+of action to perform.
+In chain a sequence of action is hardcoded , in agent language model is used as a 
+reasoning engine to determine which action to perform and in what order.
+
